@@ -5,4 +5,5 @@
 
 界面展示
 
-https://github.com/zaxhome/wbwk/blob/main/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2.jpg?raw=true
+![avatar](https://github.com/zaxhome/wbwk/blob/main/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2.jpg?raw=true)
+
